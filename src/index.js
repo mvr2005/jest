@@ -1,1 +1,3 @@
-export default str => str.split('').reverse().join('');
+ const rev = (str) => str.split('').reverse().join('');
+
+ export default rev;
