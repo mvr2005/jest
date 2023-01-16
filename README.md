@@ -3,7 +3,7 @@
 ## запуск теста
 ##### NODE_OPTIONS=--experimental-vm-modules npx jest
 
-## запуск изьерение покрытие тестами
+## запуск измерение покрытие тестами
 ##### npx jest --coverage
 
 [сайт jest](https://jestjs.io)
